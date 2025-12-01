@@ -1,0 +1,14 @@
+{
+  "name": "f7fdd55a7e75e921",
+  "main": "f7fdd55a7e75e921@64.js",
+  "version": "64.0.0",
+  "homepage": "https://observablehq.com/d/f7fdd55a7e75e921",
+  "author": {
+    "name": "Zaky17",
+    "url": "https://observablehq.com/@zaky17"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
