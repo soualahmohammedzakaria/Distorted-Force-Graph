@@ -1,4 +1,4 @@
-# Distorted Football Force Graph
+# Distorted Force Graph
 
 https://observablehq.com/d/f7fdd55a7e75e921@64
 
